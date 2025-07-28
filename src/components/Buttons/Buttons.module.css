@@ -1,0 +1,15 @@
+
+.myButton{
+    height: 50px;
+    width: 150px;
+    color: coral;
+    background-color: darkcyan;
+    font-size: 25px;
+    font-weight: 700;
+    text-shadow: 0 0 5px darkblue;
+    border-radius: 15px;
+    border: dashed greenyellow 6px;
+}
+.btn-primary{
+    background-color: crimson;
+}
